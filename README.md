@@ -1,5 +1,5 @@
 # 💫 About Me:
-MERN stack || Python || ML and Data analytics enthusiast 
+MERN stack | Python | ML and Data analytics enthusiast 
 
 
 ## 🌐 Socials:
