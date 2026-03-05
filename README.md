@@ -78,8 +78,8 @@ Handles 1K+ monthly bookings with real-time seat availability and Stripe integra
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smitraval24&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smitraval24&theme=dark&hide_border=false" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=smitraval24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=smitraval24&theme=dark&hide_border=false" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ Handles 1K+ monthly bookings with real-time seat availability and Stripe integra
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smit-raval-25108b1bb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit-sunilkumar-raval-25108b1bb/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smit24raval@gmail.com)
 
 **💡 Open to Software Engineering opportunities and collaborations!**
